@@ -2,6 +2,8 @@
 // config.js
 //easy 
 // This is a sample configuration file containing a hardcoded API key.
+
+//something is goint on! 
 // WARNING: Hardcoding API keys in your code is a security risk. 
 // Use environment variables or a secure vault for sensitive information.
 

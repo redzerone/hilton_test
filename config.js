@@ -5,7 +5,7 @@
 // Use environment variables or a secure vault for sensitive information.
 
 const config = {
-    apiKey: "12345-ABCDE-67890-FGHIJ-09878" // Replace this with your actual API key
+    apiKey: "12345-ABCDE-working-FGHIJ-09878" // Replace this with your actual API key
 };
 
 // Example usage of the API key

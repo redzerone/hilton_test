@@ -20,7 +20,7 @@ function fetchData(endpoint) {
         }, 1000);
     });
 }
-
+//new comment added in this file 
 // Example function call
 fetchData("sample-endpoint")
     .then((response) => {
